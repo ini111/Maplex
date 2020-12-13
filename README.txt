@@ -2,7 +2,7 @@ File format
 The file of tobin transform text graph file to binary graph file.
 Example for transform .txt file to .bin file.
 g++ -g -o tobin/main tobin/main.cpp
-./tobin/main ../random_data/random100_0.1.txt random100_0.1.bin
+./tobin/main random100_0.1.txt random100_0.1.bin
 
 
 To compile the program
